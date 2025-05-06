@@ -3,3 +3,8 @@ header{
     background-color: aquamarine;
 
 }
+header{
+    display: flex;
+    background-color: beige;
+
+}
