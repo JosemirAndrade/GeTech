@@ -9,3 +9,8 @@ header{
     background-color: gray;
 
 }
+ul{
+    display: flex;
+    gap: 10px;
+    background-color: greenyellow;
+}
