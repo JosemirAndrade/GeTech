@@ -10,3 +10,8 @@ header{
     background-color: aquamarine;
 
 }
+nav{
+    display: flex;
+    width: 100vw;
+    background-color: brown;
+}
