@@ -13,5 +13,6 @@ header{
 nav{
     display: flex;
     width: 100vw;
+    align-items: flex-start;
     background-color: brown;
 }
